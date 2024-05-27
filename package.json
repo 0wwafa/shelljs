@@ -1,0 +1,9 @@
+{
+  "name": "shell",
+  "version": "0.1.0",
+  "description": "A shell, anywhere, including colab.",
+  "main": "shell.js",
+  "repository": "https://github.com/0wwasa/shelljs",
+  "author": "Robert Sinclair",
+  "license": "MIT"
+}
